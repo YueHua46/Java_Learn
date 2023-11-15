@@ -1,5 +1,5 @@
 // 定义一个公共类
-public class PublicClass {
+class PublicClass {
   // 'public'修饰符：这个变量可以被任何其他类访问。
   public int publicField = 0;
 
