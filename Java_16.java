@@ -1,8 +1,5 @@
 // 导入java.io包，它包含了Java的文件和流操作类
 import java.io.*;
-import java.nio.Buffer;
-import java.nio.CharBuffer;
-import java.nio.channels.FileChannel;
 
 /**
  * Java文件操作的主要特点：
@@ -17,7 +14,7 @@ public class Java_16 {
         // 创建一个File文件
         // File类表示文件和目录路径名的抽象表示形式。
         // 如下列代码所示，File类的构造函数接受一个字符串参数，表示文件的路径，这将创建一个名为test的文本文件
-        File file = new File("test.txt");
+        File file = new File("files/test.txt");
 
         // 这行代码的作用是创建一个新的 FileWriter 对象，用于将数据写入到指定的 File 对象所代表的文件中
         /**
