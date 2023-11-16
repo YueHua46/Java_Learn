@@ -1,3 +1,4 @@
+package Java_Basic;
 // 定义一个接口
 interface Animal {
   void eat(); // 所有的动物都需要吃

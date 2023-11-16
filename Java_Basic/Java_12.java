@@ -1,3 +1,4 @@
+package Java_Basic;
 // 定义一个公共类
 class PublicClass {
   // 'public'修饰符：这个变量可以被任何其他类访问。

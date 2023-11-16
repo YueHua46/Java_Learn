@@ -1,3 +1,4 @@
+package Java_Basic;
 public class Java_02 {
   // 定义一个全局变量
   static int a = 1;

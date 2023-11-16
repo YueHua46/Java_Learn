@@ -1,3 +1,4 @@
+package Java_Basic;
 // 导入java.util包，它包含了Java的集合框架，以及日期和时间类、随机数生成器等实用工具类
 import java.util.*;
 

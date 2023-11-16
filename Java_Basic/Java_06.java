@@ -1,3 +1,4 @@
+package Java_Basic;
 public class Java_06 {
   public static void main(String[] args) {
     // 1. 条件语句

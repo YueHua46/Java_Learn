@@ -1,3 +1,4 @@
+package Java_Basic;
 public class Java_09 {
   public static void main(String[] args) {
     // 创建一个Student对象

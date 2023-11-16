@@ -1,3 +1,4 @@
+package Java_Basic;
 public class Java_07 {
   public static void main(String[] args) {
     // 1. 数组
