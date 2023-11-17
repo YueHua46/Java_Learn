@@ -1,0 +1,189 @@
+{
+  // 使用 IntelliSense 了解相关属性。 
+  // 悬停以查看现有属性的描述。
+  // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Java_01",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_01",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_02",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_02",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_03",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_03",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_04",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_04",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_05",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_05",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_06",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_06",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_07",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_07",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_08",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_08",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_09",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_09",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_10",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_10",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_11",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_11",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_12",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_12",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_15",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_15",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_16",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_16",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_17",
+      "request": "launch",
+      "mainClass": "Java_Basic.Java_17",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_01_BIO_Client",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_01_BIO_Client",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_01_BIO_Server",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_01_BIO_Server",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_02_NIO",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_02_NIO",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_03_NIO",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_03_NIO",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_04_NIO_Client",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_04_NIO_Client",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_04_NIO_Server",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_04_NIO_Server",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_05_NIO_Client",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_05_NIO_Client",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_05_NIO_Server",
+      "request": "launch",
+      "mainClass": "Java_Io.Java_05_NIO_Server",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_01_Socket_Client",
+      "request": "launch",
+      "mainClass": "Java_Network.Java_01_Socket_Client",
+      "projectName": "java_learn_8c7c87a5"
+    },
+    {
+      "type": "java",
+      "name": "Java_01_Socket_Server",
+      "request": "launch",
+      "mainClass": "Java_Network.Java_01_Socket_Server",
+      "projectName": "java_learn_8c7c87a5"
+    }
+  ]
+}
